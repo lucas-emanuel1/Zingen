@@ -46,7 +46,7 @@
 }
 
 .grid {
-  display: grid;;
+  display: grid;
 }
 
 @media (width >= 80em) {
